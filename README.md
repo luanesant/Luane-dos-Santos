@@ -27,6 +27,4 @@
   <img alt = "Swift" src = "https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
-##: bar_chart: Minhas estatísticas
-! [Github stats] (https://github-readme-stats.vercel.app/api?username=Luane-dos-Santos&count_private=true&hide=issues&show_icons=true)
-! [Top Langs
+
